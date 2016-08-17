@@ -1,16 +1,17 @@
 body {
     margin: 0;
     padding: 0;
+        background-color: #1d486b;
 }
 .wrapper {
-    background-color: #1d486b;
+
 }
 .navbar {
   display: flex;
   flex-direction: row;
   justify-content: center;
     background-color: rgba(87, 142, 76, 0.55);
-    width: 75%;
+  
     margin: auto 0;
 }
 .navbar-link {
